@@ -32,7 +32,7 @@ To use this package, you should install the following packages and libraries
 The sources can be cloned from github,
 
 ```
-$ git clone 
+$ git clone https://github.com/mountcedar/SpheroControl.git
 ```
 
 After all preparation done, the source tree of the project should be like
